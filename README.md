@@ -32,4 +32,4 @@ def circulate():
 ![image](https://user-images.githubusercontent.com/119476088/229338888-78950128-59b1-49e6-addf-68e0cc6472f2.png)
 
 ## Result:
-Thus the circulate the values of N variables for executed 
+Thus the circulate the values of N variables for executed  
