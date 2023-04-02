@@ -20,15 +20,23 @@ Print the values for the first variable
 
 ## Program:
 #Program to circulate N values.
+
 #Developed by: Yeshwanth P
+
 #RegisterNumber:212222230178
+
 def circulate():
+
     list1=eval(input())
+    
     n=int(input())
+    
     result=list1[n:]+list1[:n]
+    
     print("After circulating the values are:",result)
+    
 ## Output:
 ![image](https://user-images.githubusercontent.com/119476088/229338888-78950128-59b1-49e6-addf-68e0cc6472f2.png)
 
 ## Result:
-Thus the circulate the values of N variables for executed
+Thus the circulate the values of N variables for executed 
