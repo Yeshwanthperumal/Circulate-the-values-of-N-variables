@@ -19,12 +19,14 @@ Using the slicing concept roate the list with the donate of the first variable
 Print the values for the first variable
 
 ## Program:
-Developed by: Yeshwanth P
-Ref no:212222230178
+
+#Program to circulate N values.
+#Developed by: Yeshwanth P
+#RegisterNumber:212222230178
 def circulate():
-    list=eval(input())
+    list1=eval(input())
     n=int(input())
-    result=list[n:]+list[:n]
+    result=list1[n:]+list1[:n]
     print("After circulating the values are:",result)
     
 ## Output:
